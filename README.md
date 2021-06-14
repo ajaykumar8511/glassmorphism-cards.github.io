@@ -1,10 +1,10 @@
 <br />
 <p align="center">
-  <a href="">
+  <a href="https://ajaykumar8511.github.io/glassmorphism-cards.github.io/">
     <img src="img\singlecard1.png" alt="Logo" width="200" \>
   </a>
 
-  <h2 align="center"> <b>Glassmorphism Cards</b> </h2>
+  <h3 align="center"> <b>Glassmorphism Cards</b> </h3>
 
   <p align="center">
     This project based on Glass Morphism.
@@ -13,14 +13,14 @@
 <br/>
 <br/>
 
-# About Project   
+## About Project   
 
-### This project shows the nice satisfying effects in card, just feel the touch on card.
+This project shows the nice satisfying effects in card, just feel the touch on card.
 
 <br/>
 <br/>
 
-# Built With
+## Built With
 
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
